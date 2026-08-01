@@ -1,69 +1,51 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNiNHM1eGYzc2Z6bjFydXdqaDUyOHBmM2V3NzZ2ZDk5dXlzcDM5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif" width="150"/>
-</div>
-<div id="kol" align="center">
-  <img src="https://komarev.com/ghpvc/?username=bs64sha256&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Привет всем!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDg1bWxiczN0dTQxZzkybDQ5ZWRoaDhpYnozNTB2a3JoeXBwOXg4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1wq4Z3MvB8eGxvakbQ/giphy.gif" width="600" height="200"/>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Mikhail+%F0%9F%91%8B;Bs64Sha256+%F0%9F%94%90;Student+at+MPEI+%F0%9F%8E%93;Game+Developer+%F0%9F%8E%AE;Boxer+%F0%9F%A5%8A" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bs64Sha256&label=Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/Bs64Sha256?label=Followers&style=social" alt="followers" />
+</p>
 
 ---
 
-### 😶‍🌫️ Обо мне:
+### 👨‍🎓 About Me
 
-- 👋 Я Талалаев Михаил 2007-го года рождения, начал увлекаться программированием с 14 лет. Опыт работы в профессиональной среде отсутсвует, Образование - идет 11 (инженерный) класс школы.
-- 👀 Увлекаюсь Спидкубингом (сборка кубика рубика на скорость), созданием 3D игр на движке Godot Engine V4+ и изучением всего того, что покажется мне интересным.
-- 🌱 В настящее время изучаю модуль aiogram языка Python и готовлюсь к сдаче ЕГЭ.
-- 📫 bs64sha256@gmail.com
-- ⚡ Интересный факт обо мне... пока отсутствует.
-
----
-
-### 🔥 Моя GitHub статистика:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bs64sha256&theme=dark)](https://git.io/streak-stats)
+- 🎓 Student at **MPEI** (National Research University "Moscow Power Engineering Institute"), pursuing an engineering degree.
+- 💻 Coding in **Python** and **GDScript**, building 3D games with the **Godot** engine.
+- 🥊 Passionate about boxing – I simply enjoy the sport.
+- 🧸 Modeling **Hard-surface** assets in Blender – creating environments and objects for my games.
 
 ---
 
-### ℹ️ Дополнительная информация:
-[![github-readme-activity-graph](https://github-readme-stats.vercel.app/api?username=bs64sha256&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file)
+### 🛠️ My Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+</p>
 
 ---
 
-### :space_invader: Языки программирования:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bs64sha256&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
 
-<!---
-bs64sha256/bs64sha256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![bs64sha256's GitHub stats](https://github-readme-stats.vercel.app/api?username=bs64sha256&show_icons=true&theme=tokyonight&count_private=true)
+![Followers](https://img.shields.io/github/followers/Bs64Sha256?style=social)
+![Stars](https://img.shields.io/github/stars/Bs64Sha256?style=social)
+![Repo count](https://img.shields.io/badge/Репозитории-5-blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bs64sha256&layout=compact&theme=tokyonight)
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bs64sha256&theme=tokyonight)](https://git.io/streak-stats)
+### 📫 Get in Touch
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bs64sha256&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left">
+  <a href="https://t.me/bs64sha256" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:bs64sha256@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bs64sha256&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+---
 
-![](https://komarev.com/ghpvc/?username=bs64sha256&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![GitHub followers](https://img.shields.io/github/followers/bs64sha256?style=social)
-![GitHub stars](https://img.shields.io/github/stars/bs64sha256?affiliations=OWNER&style=social)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bs64sha256&repo=repo-name&theme=tokyonight)](https://github.com/bs64sha256/repo-name)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Python+Developer;Open+Source+Contributor;Building+cool+things)](https://git.io/typing-svg)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=bs64sha256&fontSize=80)
-
-![snake gif](https://raw.githubusercontent.com/bs64sha256/bs64sha256/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <i>“And then he said – ‘I am fearless, and therefore invincible.’”</i>
+</p>
