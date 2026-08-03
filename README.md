@@ -13,7 +13,7 @@
 
 - 🎓 Student at **MPEI** (National Research University "Moscow Power Engineering Institute"), pursuing an engineering degree.
 - 💻 Coding in **Python** and **GDScript**, building 3D games with the **Godot** engine.
-- 🥊 Passionate about boxing – I simply enjoy the sport.
+- 🥊 I like boxing – I simply enjoy the sport.
 - 🧸 Modeling **Hard-surface** assets in Blender – creating environments and objects for my games.
 
 ---
